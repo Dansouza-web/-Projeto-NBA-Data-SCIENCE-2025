@@ -1,6 +1,7 @@
 # -Projeto-NBA-Data-SCIENCE-2025
 🏀 Projeto NBA - Análise, Previsão de MVP e Campeões dos Playoffs
-Este projeto é uma análise completa e preditiva sobre a NBA 2025, dividido em cinco etapas principais:
+Este projeto aplica técnicas de análise de dados e machine learning para prever o MVP e o campeão dos playoffs da NBA em 2025. Ele combina estatísticas históricas com desempenho recente dos jogadores e times.
+
 
 1. Coleta NBA  
 - Extração de dados oficiais da NBA, estatísticas de jogadores, times e partidas.  
