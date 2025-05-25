@@ -49,6 +49,6 @@ Tecnologias usadas
 ---
 
 ## Contato  
-[Seu LinkedIn] | [danielsouzapython@gmail.com]
+www.linkedin.com/in/daniel-souza-8b554335b | [danielsouzapython@gmail.com]
 
 ---
